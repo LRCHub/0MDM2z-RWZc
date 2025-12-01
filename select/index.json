@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "夏速",
+  "base_artist": "Natsunose",
+  "createdAt": "2025-12-01T10:55:37.809491Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夏速",
+      "artist": "ナツノセ",
+      "has_synced": false,
+      "path": "select/pl_01_夏速_ナツノセ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "夏速",
+      "artist": "ナツノセ",
+      "has_synced": false,
+      "path": "select/pl_02_夏速_ナツノセ.txt"
+    }
+  ]
+}
